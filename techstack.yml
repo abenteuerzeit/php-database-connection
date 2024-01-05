@@ -1,7 +1,8 @@
 repo_name: abenteuerzeit/php-database-connection
 report_id: e9be5f1a966a55a12974ef0cc58f7846
+version: 0.1
 repo_type: Public
-timestamp: '2023-11-12T10:24:20+00:00'
+timestamp: '2024-01-05T08:49:06+00:00'
 requested_by: abenteuerzeit
 provider: github
 branch: master
@@ -16,6 +17,7 @@ tools:
   category: Languages & Frameworks
   sub_category: Languages
   image_url: https://img.stackshare.io/service/991/hwUcGZ41_400x400.jpg
+  detection_source_url: https://github.com/abenteuerzeit/php-database-connection
   detection_source: Repo Metadata
 - name: SQL
   description: It is a domain-specific language used in programming
@@ -25,6 +27,7 @@ tools:
   category: Languages & Frameworks
   sub_category: Languages
   image_url: https://img.stackshare.io/service/2271/default_068d33483bba6b81ee13fbd4dc7aab9780896a54.png
+  detection_source_url: https://github.com/abenteuerzeit/php-database-connection/blob/master/db.sql
   detection_source: db.sql
   last_updated_by: abenteuerzeit
   last_updated_on: 2023-09-25 19:30:45.000000000 Z
@@ -36,4 +39,5 @@ tools:
   category: Build, Test, Deploy
   sub_category: Version Control System
   image_url: https://img.stackshare.io/service/1046/git.png
+  detection_source_url: https://github.com/abenteuerzeit/php-database-connection
   detection_source: Repo Metadata
